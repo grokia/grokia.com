@@ -17,5 +17,4 @@ _A trivia game or competition is one where the competitors are asked questions a
 
 ## Logo
 
-Uma coruja alienígena
-
+O desenho simboliza uma coruja (conhecimento) alienígena (referência ao termo grok) com a mente aberta (compartilhamento/aprendizado).
