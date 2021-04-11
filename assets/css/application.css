@@ -1,0 +1,31 @@
+/* https://codeburst.io/50-shades-of-dark-mode-gray-d3e9907b1194 */
+:root {
+  --white: #ffffff;
+  --dark1: #121212;
+  --dark2: #181818;
+  --dark3: #404040;
+  --dark4: #282828;
+  --light: #B3B3B3;
+}
+
+* {
+  font-family: 'Nunito', sans-serif;
+}
+
+body {
+  background-color: var(--dark1);
+  color: var(--white);
+}
+
+.logo {
+  font-weight: 200;
+  text-align: center;
+}
+
+.container-fluid {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
