@@ -15,7 +15,7 @@ O nome GROK/A (escrito em letras maiúsculas) é um jogo de palavras com os term
 _A trivia game or competition is one where the competitors are asked questions about interesting but unimportant facts in many subjects._
 
 
-## Concepção
+## Logo
 
 Uma coruja alienígena
 
