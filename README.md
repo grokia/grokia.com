@@ -4,7 +4,7 @@
 
 Os usuários podem criar comunidades públicas ou privadas. Cada comunidade pode ter uma ou mais salas, divididas por temas (filmes, jogos, português, geografia, etc), e cada tema pode ser subdividido (geografia do Brasil, relevo, globalização, etc).
 
-A cada 30 segundos uma nova questão é apresentada. Os participantes da sala podem digitar inúmeras tentativas até acertar a resposta ou o tempo acabar.
+A cada 30 segundos uma nova questão é apresentada. Os participantes da sala podem digitar inúmeras tentativas até acertarem a resposta ou o tempo acabar.
 
 ## Nome
 
