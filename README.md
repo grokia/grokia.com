@@ -17,4 +17,8 @@ _A trivia game or competition is one where the competitors are asked questions a
 
 ## Logo
 
-O desenho simboliza uma coruja (conhecimento) alienígena (referência ao termo grok) com a mente aberta (compartilhamento/aprendizado).
+O desenho simboliza uma coruja alienígena com a mente aberta, onde:
+
+- coruja faz referência ao conhecimento;
+- alien faz referência ao termo grok;
+- mente aberta é o compartilhamento/ aprendizado;
