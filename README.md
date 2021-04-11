@@ -8,7 +8,7 @@ A cada 30 segundos uma nova questão é apresentada. Os participantes da sala po
 
 ## Nome
 
-Grok (https://en.wikipedia.org/wiki/Grok) é um termo inventado por Robert Heinlein (https://en.wikipedia.org/wiki/Robert_A._Heinlein), famoso escritor de ficção norte americano, que em 1961 publicou o livro "Um estranho numa terra estranha" (https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land), onde conta a história de um "marciano" que vem à Terra e tenta entender nosso mundo. Lá pelas tantas ele conta que na cultura marciana há "grokar", que significa "entender algo tão completa e profundamente que o observador e o objeto observado se tornam um só".
+[Grok](https://en.wikipedia.org/wiki/Grok) é um termo inventado por [Robert Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein), famoso escritor de ficção norte americano, que em 1961 publicou o livro "[Um estranho numa terra estranha](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land)", onde conta a história de um "marciano" que vem à Terra e tenta entender nosso mundo. Lá pelas tantas ele conta que na cultura marciana há "grokar", que significa "entender algo tão completa e profundamente que o observador e o objeto observado se tornam um só".
 
 O nome GROK/A (escrito em letras maiúsculas) é um jogo de palavras com os termos grok e trivia.
 
